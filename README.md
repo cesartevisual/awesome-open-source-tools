@@ -1,9 +1,10 @@
 # Awesome Open Source Tools for Product Design & Design Engineering
 
-A curated list of open-source tools for product design and design engineering.
+Curated tools for product design and design engineering — UI, motion, demos, docs, and day-to-day build workflows. Most entries are open source; a few free or source-available tools are included with an explicit license note. Prefer the linked GitHub repo or project site for install and docs. macOS-only sections are labeled as such.
 
 ## Contents
 
+- [How to use this list](#how-to-use-this-list)
 - [3D & motion](#3d--motion)
 - [Video & streaming](#video--streaming)
 - [Design & UI engineering](#design--ui-engineering)
@@ -18,6 +19,13 @@ A curated list of open-source tools for product design and design engineering.
 - [Free (not open source)](#free-not-open-source)
 - [Contributing](#contributing)
 - [License](#license)
+
+## How to use this list
+
+1. **Jump by category** using the Contents links above.
+2. **Each entry** is a name linked to its repo or site, plus one line on when you’d reach for it.
+3. **Install from the source** — GitHub releases, Homebrew, or the project site — rather than this list.
+4. **License notes** appear inline when a tool is not plain open source (e.g. Warp, Supacode, Prowl). Proprietary free apps live under [Free (not open source)](#free-not-open-source).
 
 ## 3D & motion
 
@@ -55,6 +63,8 @@ A curated list of open-source tools for product design and design engineering.
 ## Development
 
 - [CodexBar](https://github.com/steipete/CodexBar) — Menu bar usage meters and reset timers for AI coding providers (Codex, Claude, Cursor, etc.).
+- [Supacode](https://github.com/supabitapp/supacode) — Native macOS command center for parallel coding agents (git worktrees, agent presence, CLI). FSL-1.1-ALv2 (source-available).
+- [Prowl](https://github.com/onevcat/Prowl) — Supacode fork with Canvas overview, Shelf worktree UI, custom actions, and `prowl` CLI. FSL-1.1-ALv2 (source-available).
 - [Warp](https://github.com/warpdotdev/Warp) — Agentic terminal for design engineering workflows (client is OSS; AGPL/MIT split).
 
 ## macOS — Menu bar & system
