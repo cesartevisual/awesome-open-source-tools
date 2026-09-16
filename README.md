@@ -12,6 +12,7 @@ Curated tools for product design and design engineering — UI, motion, demos, d
 - [Color](#color)
 - [Office & docs](#office--docs)
 - [Browsers](#browsers)
+- [Remote desktop](#remote-desktop)
 - [Development](#development)
 - [macOS — Menu bar & system](#macos--menu-bar--system)
 - [macOS — Windows & workspace](#macos--windows--workspace)
@@ -59,6 +60,11 @@ Curated tools for product design and design engineering — UI, motion, demos, d
 ## Browsers
 
 - [Zen Browser](https://github.com/zen-browser/desktop) — Firefox-based browser with workspaces, split view, and compact mode for focused design research.
+
+## Remote desktop
+
+- [RustDesk](https://github.com/rustdesk/rustdesk) — Self-hostable remote desktop (TeamViewer alternative) for pairing on design reviews and reaching your workstation from anywhere.
+- [TigerVNC](https://github.com/TigerVNC/tigervnc) — High-performance, multi-platform VNC server and client for remote access to build machines and test rigs.
 
 ## Development
 
