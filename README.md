@@ -113,3 +113,7 @@ Pull requests welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 [CC BY 4.0](LICENSE)
+
+## Freelance Tools
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser freelance docs generators (invoice, quote, credit note, certificate of completion, and more). No signup.
