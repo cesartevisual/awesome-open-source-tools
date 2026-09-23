@@ -40,6 +40,7 @@ Curated tools for product design and design engineering — UI, motion, demos, d
 
 ## Design & UI engineering
 
+- [Compositor](https://github.com/robbietilton/Compositor) — Native macOS image editor for compositing, retouching, and pixel-perfect post-processing (layers, masks, adjustments, and PSD import).
 - [Responsively App](https://github.com/responsively-org/responsively-app) — Multi-device responsive preview browser (mirrored interactions, shared inspector, device profiles).
 - [ScreenForge](https://github.com/nclandrei/screenforge) — CLI for App Store–style marketing screenshots (device frames, backgrounds, overlays).
 
