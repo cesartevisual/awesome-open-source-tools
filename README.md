@@ -73,6 +73,7 @@ Curated tools for product design and design engineering — UI, motion, demos, d
 - [Supacode](https://github.com/supabitapp/supacode) — Native macOS command center for parallel coding agents (git worktrees, agent presence, CLI). FSL-1.1-ALv2 (source-available).
 - [Prowl](https://github.com/onevcat/Prowl) — Supacode fork with Canvas overview, Shelf worktree UI, custom actions, and `prowl` CLI. FSL-1.1-ALv2 (source-available).
 - [Warp](https://github.com/warpdotdev/Warp) — Agentic terminal for design engineering workflows (client is OSS; AGPL/MIT split).
+- [Tale](https://github.com/tale-project/tale) — Shared project workspace for assigning coding-agent tasks in persistent sandboxes and reviewing the results.
 
 ## macOS — Menu bar & system
 
