@@ -49,6 +49,7 @@ Curated tools for product design and design engineering — UI, motion, demos, d
 - [Gifski](https://github.com/sindresorhus/Gifski) — High-quality GIF encoder for Mac (wraps the gifski library).
 - [Hide Icons](https://github.com/com-entonos/Hide-Icons) — Menu bar toggle to hide desktop icons for clean screenshots.
 - [KeyCastr](https://github.com/keycastr/keycastr) — On-screen keystroke overlay for screencasts and presentations.
+- [Vertov](https://github.com/ankurmans/vertov-screen-recorder) — Self-hostable browser screen recorder with transcript-based editing and share links for product demos.
 
 ## Color
 
